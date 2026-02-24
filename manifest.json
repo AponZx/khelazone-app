@@ -8,7 +8,7 @@
   "short_name": "Khela Zone BD",
   "start_url": "https://khelazone-app.vercel.app",
   "theme_color": "#ffffff",
-  "id": "https://khelazone-app.vercel.app/",
+  "id": "com.khelazone.app",
   "categories": [
     "games"
   ],
